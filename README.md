@@ -1,29 +1,55 @@
 <h1 align="center">Hi 👋, I'm Ashish Kadian</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<h3 align="center">DevOps & SRE Consultant | Cloud Infrastructure Expert | Automation Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax2&label=Profile%20views&color=0e75b6&style=flat" alt="syntax2" /> </p>
 
-- 🔭 I’m currently working on [Ansible](https://github.com/syntax2/SecureOps-Ansible)
+### About Me 🚀
+I'm a DevOps consultant specializing in building resilient systems and scalable infrastructure. With experience in both startups and enterprises, I focus on implementing DevOps best practices, automating workflows, and optimizing cloud infrastructure.
 
-- 🌱 I’m currently learning **Kubernetes**
+🔭 **Currently Working On:**
+- Building a SaaS Operations Portal for DevOps teams
+- Implementing Chaos Engineering practices with Chaos Mesh
+- Contributing to open-source DevOps tools
 
-- 📝 I regularly write articles on [https://ashishkadian.hashnode.dev/](https://ashishkadian.hashnode.dev/)
+🌱 **Current Focus:**
+- Advanced Kubernetes patterns and GitOps workflows
+- SRE practices and implementing SLOs
+- Cloud cost optimization strategies
 
-- 💬 Ask me about **DevOps practices, automation, continuous integration and deployment, infrastructure management, cloud technologies, containerization, monitoring**
+💡 **Core Expertise:**
+- Cloud Infrastructure (AWS, GCP)
+- Kubernetes & Container Orchestration
+- Infrastructure as Code (Terraform, Ansible)
+- CI/CD Pipeline Optimization
+- Site Reliability Engineering
+- DevSecOps & Vulnerability Management
 
-- 📫 How to reach me **ashishkadian239@gmail.com**
+✍️ **Latest Blog Posts**
+- Regular posts about DevOps best practices at [ashishkadian.hashnode.dev](https://ashishkadian.hashnode.dev/)
+- Technical guides and automation tutorials
 
-- ⚡ Fun fact **I love Running**
+📫 **Connect With Me:**
+- Email: ashishkadian884@gmail.com
+- LinkedIn: [ashish-kadian](https://linkedin.com/in/ashish-kadian)
 
-<h3 align="left">Connect with me:</h3>
+### Tech Stack 🛠
+
 <p align="left">
-<a href="https://linkedin.com/in/ashish-kadian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kadian" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishkadian8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishkadian8" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraform/terraform-icon.svg" alt="terraform" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntax2&show_icons=true&locale=en&layout=compact&theme=dark" alt="syntax2" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntax2&show_icons=true&locale=en&layout=compact" alt="syntax2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntax2&show_icons=true&locale=en&theme=dark" alt="syntax2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntax2&show_icons=true&locale=en" alt="syntax2" /></p>
+⚡ **Fun Fact:** When I'm not optimizing infrastructure, you'll find me running trails and optimizing my running performance! 🏃‍♂️
